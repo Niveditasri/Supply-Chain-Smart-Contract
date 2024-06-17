@@ -53,12 +53,6 @@ The `interact.js` script interacts with a deployed instance of the `SupplyChain`
 2. **Interacting with the Contract**:
    - Update the `interact.js` script with the deployed contract address and your Ethereum provider.
    - Run `node scripts/interact.js` to execute the interactions.
-
-## Notes
-
-- Ensure proper handling of gas limits and transaction costs based on your Ethereum network conditions.
-- Adjust contract functions and interaction scripts as per your specific use case and requirements.
-
 ---
 
 This README provides an overview of the `SupplyChain` smart contract, its functionalities, interaction scripts (`deploy.js` and `interact.js`), prerequisites, usage instructions, and notes for deployment and interaction on the Ethereum blockchain. Adjust the content as necessary to fit your project specifics and additional details you may want to include.
